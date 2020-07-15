@@ -40,6 +40,10 @@
     padding: 10px;
 }
 
+.content .info article h3 i {
+    color: #ff4c4c;
+}
+
 .content .info article p {
     color: #808080;
     margin-top: 5px;
